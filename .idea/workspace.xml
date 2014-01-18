@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b11b5e72-e9cb-4070-8e04-26ebf92b7922" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="b11b5e72-e9cb-4070-8e04-26ebf92b7922" name="Default" comment="" />
     <ignored path="Library.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$USER_HOME$/.grails/" />
@@ -489,10 +487,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1003000" />
+    <option name="totallyTimeSpent" value="1004000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1698" height="1020" extended-state="0" />
+    <frame x="-9" y="-9" width="1698" height="1020" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
