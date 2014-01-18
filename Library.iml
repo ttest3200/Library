@@ -10,6 +10,10 @@
       <configuration>
         <webroots>
           <root url="file://$MODULE_DIR$/web-app" relative="/" />
+<<<<<<< HEAD
+=======
+          <root url="file://$MODULE_DIR$/grails-app/views" relative="/" />
+>>>>>>> develop
         </webroots>
         <sourceRoots />
       </configuration>
@@ -29,6 +33,10 @@
       <sourceFolder url="file://$MODULE_DIR$/src/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/grails-app/utils" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/groovy" isTestSource="false" />
+<<<<<<< HEAD
+=======
+      <sourceFolder url="file://$MODULE_DIR$/grails-app/i18n" isTestSource="false" />
+>>>>>>> develop
       <sourceFolder url="file://$MODULE_DIR$/grails-app/controllers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/grails-app/domain" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/grails-app/services" isTestSource="false" />
@@ -73,6 +81,10 @@
         <jarDirectory url="file://$MODULE_DIR$/lib" recursive="false" />
       </library>
     </orderEntry>
+<<<<<<< HEAD
+=======
+    <orderEntry type="module" module-name="Library-grailsPlugins" />
+>>>>>>> develop
   </component>
 </module>
 

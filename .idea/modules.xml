@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Library.iml" filepath="$PROJECT_DIR$/Library.iml" />
+<<<<<<< HEAD
+=======
+      <module fileurl="file://$PROJECT_DIR$/Library-grailsPlugins.iml" filepath="$PROJECT_DIR$/Library-grailsPlugins.iml" />
+>>>>>>> develop
     </modules>
   </component>
 </project>
